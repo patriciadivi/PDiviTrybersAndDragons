@@ -17,4 +17,4 @@ export default class Halfling extends Race {
     this._Icount += 1;
     return this._Icount;
   }
-};
+}
